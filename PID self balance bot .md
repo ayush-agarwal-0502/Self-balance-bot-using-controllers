@@ -9,7 +9,9 @@ https://github.com/Robotics-Club-IIT-BHU/CnD-SummerCamp21/tree/master/Week%201/S
 ## Project demonstration 
 The bot balances itself as the PID controller inside it sends correction signals to the bot . 
 The bot moves forward when torque is applied in such a way that the wheels make the bot move forward . The PID controller keeps sending corrective signals so the bot can still maintain it's balance properly . That's how the bot moves forward or backward .
-
+<video width="320" height="240" >
+  <source src="https://github.com/ayush-agarwal-0502/Self-balance-bot-using-controllers/blob/main/PID%20bot%20videos/bot%20moving%20forward.mp4" type="mp4">
+</video>
 To move left or right , the wheels rotate in the opposite direction , this causes turning effect in the bot . This concept of turning of robot due to difference in wheel velocities is called as differential drive . 
 
 The bot can also perform a front flip as well as a back flip, as visible in the videos . This is possible , since in pybullet environment , we do not have a limit to the amount of torque the motors can apply , hence the motors apply so much torque that the bot ends up doing a flip . After landing , the PID controller keeps sending the correction signals hence the bot ends up standing properly again . 
