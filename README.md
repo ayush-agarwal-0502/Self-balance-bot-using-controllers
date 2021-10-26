@@ -6,3 +6,8 @@ This project is actually a combination of 2 different projects , which I have de
 
 
 ![image](https://user-images.githubusercontent.com/86561124/138930382-11f38c48-5a62-47a0-a106-67930d0f0304.png)
+
+![image](https://user-images.githubusercontent.com/86561124/138933809-72e67c0f-8a2a-4f37-ae25-d67ffb771b33.png)
+
+![image](https://user-images.githubusercontent.com/86561124/138933943-85fe47fe-dace-4b8a-a3a3-aa1775874e8e.png)
+
